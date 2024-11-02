@@ -1,0 +1,5 @@
+
+O Banco de Dados se trata basicamente de uma analise estatitica e territorial sobre a produção agropecuaria no brasil visando demonstrar informações sobre a estrutura e nivel de produção da atividade brasileira.
+
+Municipios
+Localidades
